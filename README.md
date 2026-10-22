@@ -1,3 +1,6 @@
+<img width="455" height="341" alt="1000134403 (455×341)" src="https://github.com/user-attachments/assets/a858d866-edc2-4bd7-af1a-ad98f49abc2d" />
+
+
 # 3D-Terrain-Oso-Mudslide
 3D elevation profile and terrain animation of the Oso Mudslide area using ArcGIS Pro
 
@@ -18,10 +21,8 @@ A 3D terrain visualization project developed during the Esri MOOC program ("Cart
 - Terrain Visualization Preview
 
 ### Project Preview
-![3D Terrain Animation Preview]
-
-
-
+[3D Terrain Animation Preview]
+<img width="455" height="341" alt="1000134403 (455×341)" src="https://github.com/user-attachments/assets/ad950e5e-90aa-42e1-8b46-bdbdf3b13434" />
 
 ## Author
 Khadijah Assaggaf — GIS Specialist

@@ -22,6 +22,7 @@ A 3D terrain visualization project developed during the Esri MOOC program ("Cart
 
 ### Project Preview
 [3D Terrain Animation Preview]
+
 <img width="455" height="341" alt="1000134403 (455×341)" src="https://github.com/user-attachments/assets/ad950e5e-90aa-42e1-8b46-bdbdf3b13434" />
 
 ## Author

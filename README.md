@@ -18,7 +18,10 @@ A 3D terrain visualization project developed during the Esri MOOC program ("Cart
 - Terrain Visualization Preview
 
 ### Project Preview
-![3D Terrain Animation Preview](Oso-Mudslide-Preview.gif)
+![3D Terrain Animation Preview]
+
+
+
 
 ## Author
 Khadijah Assaggaf — GIS Specialist

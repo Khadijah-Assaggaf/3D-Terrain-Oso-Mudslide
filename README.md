@@ -4,7 +4,7 @@
 # 3D Terrain Visualization (Oso Mudslide)
 
 ## Overview
-A 3D terrain visualization project developed during the Esri MOOC program ("Cartography."). The project focuses on configuring 3D scenes and surface representation for the Steelhead Haven area near Oso, Washington, using ArcGIS Pro.
+A 3D terrain visualization, The project focuses on configuring 3D scenes and surface representation for the Steelhead Haven area near Oso, Washington, using ArcGIS Pro.
 
 ## Features & Capabilities
 - **3D Scene Configuration:** Configured elevation surfaces, vertical exaggeration, and camera angles to visualize terrain relief in a 3D scene environment.
